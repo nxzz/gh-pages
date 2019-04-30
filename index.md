@@ -6,8 +6,11 @@ title: Rimpei Kunimoto (國本 倫平)
     footer {
         display:none;
     }
-    section.page-header{
+    section.page-header {
         display:none;
+    }
+    section.main-content {
+        max-width: 72rem;
     }
 </style>
 
