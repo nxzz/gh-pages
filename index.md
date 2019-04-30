@@ -6,7 +6,7 @@ title: Rimpei Kunimoto (國本 倫平)
     footer {
         display:none;
     }
-    section.page-header > h1{
+    section.page-header > h1:before{
         content: "Rimpei Kunimoto";
     }
     section.page-header > h2{
