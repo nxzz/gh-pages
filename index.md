@@ -6,9 +6,19 @@ title: Rimpei Kunimoto (國本 倫平)
     footer {
         display:none;
     }
+    section.page-header > h1{
+        content: "Rimpei Kunimoto";
+    }
+    section.page-header > h2{
+        display:none;
+    }
+    section.page-header > a{
+        display:none;
+    }
 </style>
 
 ## Information
+* 國本 倫平
 * 大阪電気通信大学 大学院 総合情報学研究科 修士課程 コンピュータサイエンス専攻 2年
 * Email: mt18a004@oecu.jp
 * [Github](https://github.com/nxzz)
