@@ -1,3 +1,12 @@
+<style>
+    footer {
+        display:none;
+    }
+    section.page-header {
+        display:none;
+    }
+</style>
+
 # Rimpei Kunimoto (國本 倫平)
 
 ## Information
