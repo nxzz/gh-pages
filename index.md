@@ -1,13 +1,12 @@
+---
+title: Rimpei Kunimoto (國本 倫平)
+---
+
 <style>
     footer {
         display:none;
     }
-    section.page-header {
-        display:none;
-    }
 </style>
-
-# Rimpei Kunimoto (國本 倫平)
 
 ## Information
 * 大阪電気通信大学 大学院 総合情報学研究科 修士課程 コンピュータサイエンス専攻 2年
