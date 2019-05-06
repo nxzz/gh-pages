@@ -87,7 +87,7 @@ title: Rimpei Kunimoto (國本 倫平)
     [[PDF](./paper/201812icit/kunimoto2018.pdf)] [[slide](./slide/201812icit.pdf)]
 
 ### List of Journal Papers
-1. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Energy-efficient, high-dissemination-rate algorithm considering extended transmission distances on a wireless sensor network," (submitted for pubblication) Wireless Communications and Mobile Computing
+7. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Energy-efficient, high-dissemination-rate algorithm considering extended transmission distances on a wireless sensor network," (submitted for pubblication) Wireless Communications and Mobile Computing
 
 ## Prizes/commendations
 1. 平成29年電気関係学会関西連合大会奨励賞
