@@ -32,7 +32,8 @@ title: Rimpei Kunimoto (國本 倫平)
 提出された回答の自動採点機能を備えた Web アプリケーションを提案・開発し、実際の授業に導入、授業内でのアンケート調査により評価を行った。
 
 <!-- リンクを張る -->
-提案システムのフロントエンドは Angular6 と TypeScript 、バックエンドは Loopback と node.js で実装した。
+提案システムのフロントエンドは [Angular6](https://angular.io/) と [TypeScript](https://www.typescriptlang.org/) 、
+バックエンドは [Loopback](https://loopback.io/) と [node.js](https://nodejs.org/en/) で実装した。
 
 提案システム導入前は1時間程度、環境構築と解説に授業時間を消費していたが、これを5分程度に短縮することができた。
 アンケート調査の結果、提案システムが学習の障害になると回答した学生は少なく、データベースの演習に注力できたことが分かった。
@@ -60,18 +61,18 @@ title: Rimpei Kunimoto (國本 倫平)
 * [無線センサネットワークのシミュレータの実装](#無線センサーネットワークに関する研究)
     * C++
 * 無線センサネットワークの実機による評価
-    * プリント基板・回路設計: KiCAD
+    * プリント基板・回路設計: [KiCAD](http://kicad-pcb.org/)
     * ファームウェア開発: jn516x SDK + C言語
 * マイコンを利用した機材の開発 (スマートフォン展示用什器に内臓する客数検知システム)
     * ESP8266: Espressif SDK, Arduino
     <!-- * STM32: HAL Library -->
-* スマートフォン向けアプリの開発
+* スマートフォン向けアプリの開発 (広告ブロックアプリ)
     * Swift Objective-C C#
 * English TOEIC: 715
 
 ## Achievements
 ### List of Workshop Papers
-1. 國本倫平, 久松潤之, “データベースの演習授業を支援するWeb アプリケーションの提案,” 電子情報通信学会 総合大会 講演論文集(D-15-4), pp. 157, Mar. 2017. 
+1. 國本倫平, 久松潤之, “データベースの演習授業を支援する Web アプリケーションの提案,” 電子情報通信学会 総合大会 講演論文集(D-15-4), pp. 157, Mar. 2017. 
     [[PDF](./paper/201703ieice/d_15_004.pdf)] [[slide](./slide/201703ieice.pdf)]
 1. 國本倫平, 久松潤之, “無線センサネットワークにおけるゴシップ手法を拡張した低消費電力情報散布手法の提案及び評価,” 情報処理学会研究報告(Vol.2017-MBL-84 No.19), Aug. 2017.
     [[PDF](./paper/201708mbl/IPSJ-MBL17084019.pdf)] [[slide](./slide/201708mbl.pdf)]
@@ -79,7 +80,7 @@ title: Rimpei Kunimoto (國本 倫平)
     [[PDF](./paper/201711kjciee/G11-6.pdf)] [[slide](./slide/201711kjciee.pdf)] [奨励賞受賞](#Prizes/commendations)
 1. 國本倫平, 久松潤之, “データベース演習支援システムの授業アンケートによる検証,” 電気関係学会関西連合大会 講演論文集(P-19), pp. 421-422, Dec. 2018. 
     [[PDF](./paper/201812kjciee/P-19.pdf)] [[poster](./slide/201812kjciee.pdf)]
-1. 國本倫平, 久松潤之, “データベースの演習授業を支援するWebアプリケーションの開発と実授業への適用,” 電子情報通信学会技術研究報告(ET2018-93), pp. 35-40, Mar. 2019. 
+1. 國本倫平, 久松潤之, “データベースの演習授業を支援する Web アプリケーションの開発と実授業への適用,” 電子情報通信学会技術研究報告(ET2018-93), pp. 35-40, Mar. 2019. 
     [[PDF](./paper/201903et/ET2018-93.pdf)] [[slide](./slide/201903et.pdf)]
 
 ### List of Conference Papers
