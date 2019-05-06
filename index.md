@@ -58,7 +58,7 @@ title: Rimpei Kunimoto (國本 倫平)
     * Anguar + TypeScript
     * Loopback + nodejs
     * Docker
-* [無線センサネットワークのシミュレーション: C++](無線センサーネットワークに関する研究)
+* [無線センサネットワークのシミュレーション: C++](#無線センサーネットワークに関する研究)
 * 無線センサネットワークの実機による評価
     * jn516x SDK
     * C言語
