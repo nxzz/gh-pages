@@ -73,21 +73,21 @@ title: Rimpei Kunimoto (國本 倫平)
 ### List of Workshop Papers
 1. 國本倫平, 久松潤之, “データベースの演習授業を支援するWeb アプリケーションの提案,” 電子情報通信学会 総合大会 講演論文集(D-15-4), pp. 157, Mar. 2017. 
     [[PDF](./paper/201703ieice/d_15_004.pdf)] [[slide](./slide/201703ieice.pdf)]
-2. 國本倫平, 久松潤之, “無線センサネットワークにおけるゴシップ手法を拡張した低消費電力情報散布手法の提案及び評価,” 情報処理学会研究報告(Vol.2017-MBL-84 No.19), Aug. 2017.
+1. 國本倫平, 久松潤之, “無線センサネットワークにおけるゴシップ手法を拡張した低消費電力情報散布手法の提案及び評価,” 情報処理学会研究報告(Vol.2017-MBL-84 No.19), Aug. 2017.
     [[PDF](./paper/201708mbl/IPSJ-MBL17084019.pdf)] [[slide](./slide/201708mbl.pdf)]
-3. 國本倫平, 久松潤之, “データベース演習支援システムの拡張:O/R マッパーへの対応,” 電気関係学会関西連合大会 講演論文集(G11-6), pp. 315-316, Nov. 2017. 
+1. 國本倫平, 久松潤之, “データベース演習支援システムの拡張:O/R マッパーへの対応,” 電気関係学会関西連合大会 講演論文集(G11-6), pp. 315-316, Nov. 2017. 
     [[PDF](./paper/201711kjciee/G11-6.pdf)] [[slide](./slide/201711kjciee.pdf)] [奨励賞受賞](#Prizes/commendations)
-4. 國本倫平, 久松潤之, “データベース演習支援システムの授業アンケートによる検証,” 電気関係学会関西連合大会 講演論文集(P-19), pp. 421-422, Dec. 2018. 
+1. 國本倫平, 久松潤之, “データベース演習支援システムの授業アンケートによる検証,” 電気関係学会関西連合大会 講演論文集(P-19), pp. 421-422, Dec. 2018. 
     [[PDF](./paper/201812kjciee/P-19.pdf)] [[poster](./slide/201812kjciee.pdf)]
-5. 國本倫平, 久松潤之, “データベースの演習授業を支援するWebアプリケーションの開発と実授業への適用,” 電子情報通信学会技術研究報告(ET2018-93), pp. 35-40, Mar. 2019. 
+1. 國本倫平, 久松潤之, “データベースの演習授業を支援するWebアプリケーションの開発と実授業への適用,” 電子情報通信学会技術研究報告(ET2018-93), pp. 35-40, Mar. 2019. 
     [[PDF](./paper/201903et/ET2018-93.pdf)] [[slide](./slide/201903et.pdf)]
 
 ### List of Conference Papers
-6. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Proposal for a Course Support System for Database Exercises," in Proceedings of the 6th International Conference on Information Technology: IoT and Smart City, pp. 256-260, Dec. 2018. 
+1. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Proposal for a Course Support System for Database Exercises," in Proceedings of the 6th International Conference on Information Technology: IoT and Smart City, pp. 256-260, Dec. 2018. 
     [[PDF](./paper/201812icit/kunimoto2018.pdf)] [[slide](./slide/201812icit.pdf)]
 
 ### List of Journal Papers
-7. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Energy-efficient, high-dissemination-rate algorithm considering extended transmission distances on a wireless sensor network," (submitted for pubblication) Wireless Communications and Mobile Computing
+1. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Energy-efficient, high-dissemination-rate algorithm considering extended transmission distances on a wireless sensor network," (submitted for pubblication) Wireless Communications and Mobile Computing
 
 ## Prizes/commendations
 1. 平成29年電気関係学会関西連合大会奨励賞
