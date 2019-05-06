@@ -58,17 +58,16 @@ title: Rimpei Kunimoto (國本 倫平)
     * Anguar + TypeScript
     * Loopback + nodejs
     * Docker
-* [無線センサネットワークのシミュレーション: C++](#無線センサーネットワークに関する研究)
+* [無線センサネットワークのシミュレータの実装](#無線センサーネットワークに関する研究)
+    * C++
 * 無線センサネットワークの実機による評価
-    * jn516x SDK
-    * C言語
-* スマートフォン向けアプリの開発
-    * iOS: Swift Objective-C
-    * Android: Java C#
+    * プリント基板・回路設計: KiCAD
+    * ファームウェア開発: jn516x SDK + C言語
 * マイコンを利用した機材の開発
-    * プリント基板設計: KiCAD
     * ESP32: Espressif SDK, Arduino
     * STM32: HAL Library
+* スマートフォン向けアプリの開発
+    * Swift Objective-C C#
 * English TOEIC: 715
 
 ## Achievements
