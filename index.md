@@ -23,7 +23,6 @@ title: Rimpei Kunimoto (國本 倫平)
 * [Qiita](https://qiita.com/nwing)
 
 ## Researches
-
 ### データベース演習支援システムに関する研究
 大学のデータベースを扱う授業において、演習を行うためには、SQL 文等を用いて、データベースシステムを実際に操作できる環境が必要となるが、
 授業時間内に各学生の計算機に環境構築を行わせると、演習時間が減少してしまう。
@@ -71,7 +70,6 @@ title: Rimpei Kunimoto (國本 倫平)
 * English TOEIC: 715
 
 ## Achievements
-
 ### List of Workshop Papers
 1. 國本倫平, 久松潤之, “データベースの演習授業を支援するWeb アプリケーションの提案,” 電子情報通信学会 総合大会 講演論文集(D-15-4), pp. 157, Mar. 2017. 
     [[PDF](./paper/201703ieice/d_15_004.pdf)] [[slide](./slide/201703ieice.pdf)]
@@ -84,11 +82,11 @@ title: Rimpei Kunimoto (國本 倫平)
 1. 國本倫平, 久松潤之, “データベースの演習授業を支援するWebアプリケーションの開発と実授業への適用,” 電子情報通信学会技術研究報告(ET2018-93), pp. 35-40, Mar. 2019. 
     [[PDF](./paper/201903et/ET2018-93.pdf)] [[slide](./slide/201903et.pdf)]
 
-## List of Conference Papers
+### List of Conference Papers
 1. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Proposal for a Course Support System for Database Exercises," in Proceedings of the 6th International Conference on Information Technology: IoT and Smart City, pp. 256-260, Dec. 2018. 
     [[PDF](./paper/201812icit/kunimoto2018.pdf)] [[slide](./slide/201812icit.pdf)]
 
-## List of Journal Papers
+### List of Journal Papers
 1. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Energy-efficient, high-dissemination-rate algorithm considering extended transmission distances on a wireless sensor network," (submitted for pubblication) Wireless Communications and Mobile Computing
 
 ## Prizes/commendations
