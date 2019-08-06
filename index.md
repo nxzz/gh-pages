@@ -20,7 +20,7 @@ title: Rimpei Kunimoto (國本 倫平)
 * 大阪電気通信大学 大学院 総合情報学研究科 修士課程 コンピュータサイエンス専攻 2年
 * Email: mt18a004@oecu.jp
 * [Github](https://github.com/nxzz)
-* [Qiita](https://qiita.com/nwing)
+* [Qiita](https://qiita.com/nxzz)
 
 ## Researches
 ### データベース演習支援システムに関する研究
@@ -87,8 +87,8 @@ title: Rimpei Kunimoto (國本 倫平)
 1. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Proposal for a Course Support System for Database Exercises," in Proceedings of the 6th International Conference on Information Technology: IoT and Smart City, pp. 256-260, Dec. 2018. 
     [[PDF](./paper/201812icit/kunimoto2018.pdf)] [[slide](./slide/201812icit.pdf)]
 
-### List of Journal Papers
-1. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Energy-efficient, high-dissemination-rate algorithm considering extended transmission distances on a wireless sensor network," (submitted for pubblication) Wireless Communications and Mobile Computing
+<!-- ### List of Journal Papers -->
+<!-- 1. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Energy-efficient, high-dissemination-rate algorithm considering extended transmission distances on a wireless sensor network," (submitted for pubblication) Wireless Communications and Mobile Computing -->
 
 ## Prizes/commendations
 1. 平成29年電気関係学会関西連合大会奨励賞
