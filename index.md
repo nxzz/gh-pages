@@ -82,7 +82,8 @@ title: Rimpei Kunimoto (國本 倫平)
     [[PDF](./paper/201812kjciee/P-19.pdf)] [[poster](./slide/201812kjciee.pdf)]
 1. 國本倫平, 久松潤之, “データベースの演習授業を支援する Web アプリケーションの開発と実授業への適用,” 電子情報通信学会技術研究報告(ET2018-93), pp. 35-40, Mar. 2019. 
     [[PDF](./paper/201903et/ET2018-93.pdf)] [[slide](./slide/201903et.pdf)]
-
+1. 國本倫平, 久松潤之, “データベース演習支援システムのアンケート結果にもとづく改良,” 電気関係学会関西連合大会 講演論文集(G11-7), pp. 256-257, Nov. 2019. 
+    [[PDF](./paper/201912kjciee/G11-7.pdf)] [[slide](./slide/2019kjciee.pdf)]
 ### List of Conference Papers
 1. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Proposal for a Course Support System for Database Exercises," in Proceedings of the 6th International Conference on Information Technology: IoT and Smart City, pp. 256-260, Dec. 2018. 
     [[PDF](./paper/201812icit/kunimoto2018.pdf)] [[slide](./slide/201812icit.pdf)]
