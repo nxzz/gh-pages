@@ -17,9 +17,12 @@ title: Rimpei Kunimoto (國本 倫平)
 # Rimpei Kunimoto (國本 倫平)
 
 ## Information
-* 大阪電気通信大学 大学院 総合情報学研究科 修士課程 コンピュータサイエンス専攻 2年
+* 2014.04 ~ 2018.03 大阪電気通信大学 総合情報学部 情報学科 久松研究室
+* 2018.03 ~ 2020.04 大阪電気通信大学 大学院 総合情報学研究科 修士課程 コンピュータサイエンス専攻 久松研究室
+* 2020.04 ~ now 大阪大学 大学院情報科学研究科 博士後期課程1年 情報ネットワーク学専攻 先進ネットワークアーキテクチャ講座 村田研究室
 * Email: mt18a004@oecu.jp
 * [Github](https://github.com/nxzz)
+* [Gitlab](https://gitlab.com/nxzz)
 * [Qiita](https://qiita.com/nxzz)
 
 ## Researches
