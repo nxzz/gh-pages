@@ -91,8 +91,9 @@ title: Rimpei Kunimoto (國本 倫平)
 1. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Proposal for a Course Support System for Database Exercises," in Proceedings of the 6th International Conference on Information Technology: IoT and Smart City, pp. 256-260, Dec. 2018. 
     [[PDF](./paper/201812icit/kunimoto2018.pdf)] [[slide](./slide/201812icit.pdf)]
 
-<!-- ### List of Journal Papers -->
-<!-- 1. Rimpei Kunimoto, Hiroyuki Hisamatsu, "Energy-efficient, high-dissemination-rate algorithm considering extended transmission distances on a wireless sensor network," (submitted for pubblication) Wireless Communications and Mobile Computing -->
+### List of Journal Papers
+1. Rimpei Kunimoto and Hiroyuki Hisamatsu, "Energy Efficient and High Dissemination Rate Method Considering Extended Transmission Distances on a Wireless Sensor Network," Journal of Advances in Computer Networks vol. 9, no. 1, pp. 1-7, Jun. 2021.
+    [[PDF](./paper/202106jacn/279-MT004.pdf)] [[slide](./slide/202106jacn.pdf)]
 
 ## Prizes/commendations
 1. 平成29年電気関係学会関西連合大会奨励賞
