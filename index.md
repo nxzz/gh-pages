@@ -20,7 +20,8 @@ title: Rimpei Kunimoto (國本 倫平)
 * 2014.04 ~ 2018.03 大阪電気通信大学 総合情報学部 情報学科 久松研究室
 * 2018.03 ~ 2020.04 大阪電気通信大学 大学院 総合情報学研究科 修士課程 コンピュータサイエンス専攻 久松研究室
 * 2020.04 ~ 2021.10 大阪大学 大学院情報科学研究科 博士後期課程1年 情報ネットワーク学専攻 先進ネットワークアーキテクチャ講座 村田研究室
-* Email: mt18a004@oecu.jp, r-kunimoto@ist.osaka-u.ac.jp
+* 2022.10 ~         株式会社ILKS 
+* Email: mt18a004@oecu.jp, r-kunimoto@ist.osaka-u.ac.jp, r.kunimoto@ilks.jp
 * [Github](https://github.com/nxzz)
 * [Gitlab](https://gitlab.com/nxzz)
 * [Qiita](https://qiita.com/nxzz)
@@ -57,6 +58,7 @@ title: Rimpei Kunimoto (國本 倫平)
 それらを搭載するプリント基板を設計、提案手法を実装したファームウェアの開発を行った。
 
 ## Skils
+### Lab
 * [Webアプリケーションの開発](#データベース演習支援システムに関する研究)
     * Anguar + TypeScript
     * Loopback + nodejs
@@ -66,12 +68,29 @@ title: Rimpei Kunimoto (國本 倫平)
 * 無線センサネットワークの実機による評価
     * プリント基板・回路設計: [KiCAD](http://kicad-pcb.org/)
     * ファームウェア開発: jn516x SDK + C言語
+* English TOEIC: 715
+
+### Job
 * マイコンを利用した機材の開発 (スマートフォン展示用什器に内臓する客数検知システム)
     * ESP8266: Espressif SDK, Arduino
-    <!-- * STM32: HAL Library -->
-* スマートフォン向けアプリの開発 (広告ブロックアプリ)
-    * Swift Objective-C C#
-* English TOEIC: 715
+* 小説ブックマークサービス開発(自社)
+    * firebase + ReactNative + WebExtension
+* タブレット向け ポータルアプリの開発								
+    * Android Java + Angular + Firebase
+* スマートフォン向け 位置情報ゲーム開発(API)
+    * Express + sequelize
+* タブレット向け ストリートビュー利用ゲーム
+    * React 
+* e-Learningシステム改修
+    * PHP + Postgress
+* スマートフォン向け広告ブロックアプリの開発
+    * Swift + Objective-C + C#
+* Chromiumブラウザ フロントエンド開発
+    * Polymer + jQuery + Chromium
+* サーチエンジン改修
+    * FuelPHP
+* 翻訳補助Webシステム開発・保守
+    * Loopback + Angular
 
 ## Achievements
 ### List of Workshop Papers
