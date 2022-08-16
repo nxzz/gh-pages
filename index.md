@@ -91,6 +91,21 @@ title: Rimpei Kunimoto (國本 倫平)
     * FuelPHP
 * 翻訳補助Webシステム開発・保守
     * Loopback + Angular
+* WebゲームのバックエンドAPI
+    * Nest.js + TypeORM
+    * ECS + RDS
+    * Github Action
+* LineBotを用いた予約システムと電子錠の操作
+    * Laravel
+    * Terraform + AWS ECS, RDS
+    * Github Action
+* スマートフォンゲームのバックエンドAPI
+    * Nest.js + Prisma
+    * CloudFormation + AWS ECS, RDS
+    * Gitlab CI
+* 光回線線路設計システム(自社)
+    * フロント: Vue
+    * スクレイピング: Node.js + sheat.js
 
 ## Achievements
 ### List of Workshop Papers
