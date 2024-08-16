@@ -106,6 +106,19 @@ title: Rimpei Kunimoto (國本 倫平)
 * 光回線線路設計システム(自社)
     * フロント: Vue
     * スクレイピング: Node.js + sheat.js
+* スマートフォンゲームのバックエンドAPI・開発用インフラ整備
+    * Firebase / GCP
+    * Gitlab CI
+* 顔認証予約システムの開発
+    * Laravel
+    * Terraform + AWS ECS, RDS
+    * Github Action
+    * Face++
+* 簡易POSシステムの開発
+    * Vue3 + Firebase
+* クラウド制御電気錠コントローラの開発(自社)
+    * ESP32 + FreeRTOS
+    * AWS IoT Core
 
 ## Achievements
 ### List of Workshop Papers
