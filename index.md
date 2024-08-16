@@ -119,6 +119,8 @@ title: Rimpei Kunimoto (國本 倫平)
 * クラウド制御電気錠コントローラの開発(自社)
     * ESP32 + FreeRTOS
     * AWS IoT Core
+* 請求書管理システムの開発（自社）
+    * Vue3 + Firebase
 
 ## Achievements
 ### List of Workshop Papers
